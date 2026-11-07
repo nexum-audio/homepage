@@ -1,0 +1,31 @@
+{
+  "nexum": {
+    "file": "nexum-synth-0.12.0-windows-x64.zip",
+    "bytes": 8262840,
+    "sha256": "f34e5b87193e5106cf7c01a27435303363720f6b16f6f887a374e0337f91ae44",
+    "version": "0.12.0"
+  },
+  "fx": {
+    "file": "nexum-fx-0.12.0-windows-x64.zip",
+    "bytes": 8405480,
+    "sha256": "86cb166469c8cf161afdd327c83bc553b4c93dfdd45052d651e00586e91b7513",
+    "version": "0.12.0"
+  },
+  "tune": {
+    "file": "nexum-tune-0.4.1-windows-x64.zip",
+    "bytes": 7011231,
+    "sha256": "9f718883a76a8730a0028db99487b6ea7a7400fc9b0c7419018b9d0d701a2a5e",
+    "version": "0.4.1"
+  },
+  "gate": {
+    "file": "nexum-gate-1.0.0-windows-x64.zip",
+    "bytes": 6171449,
+    "sha256": "4f6b8c6f0c074d9665d48c94667698f13d93d0a6dfcfa1f14ca67271ecfd77bc",
+    "version": "1.0.0"
+  },
+  "source": {
+    "file": "nexum-suite-source-2026-11-03.zip",
+    "bytes": 29978838,
+    "sha256": "890c046f5e05dd011cf95e21d7d5cb929fb97a9dc43a44faf955460466408f29"
+  }
+}

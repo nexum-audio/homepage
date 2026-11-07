@@ -1,0 +1,597 @@
+{
+  "Pattern name": [
+    "ArpEditor.h"
+  ],
+  "Name of this arp pattern": [
+    "ArpEditor.h"
+  ],
+  "name": [
+    "ArpEditor.h",
+    "ArpEditor.h",
+    "AssetBrowser.h",
+    "AssetBrowser.h",
+    "AssetLibrary.h",
+    "AssetLibrary.h",
+    "AutomationSlider.h",
+    "AutomationSlider.h",
+    "BatchMultisampleAudit.h",
+    "BatchMultisampleAudit.h",
+    "BatchMultisampleAudit.h",
+    "ClipEditor.h",
+    "ClipEditor.h",
+    "GenreBuild.h",
+    "OscModernTheme.h",
+    "OscModernTheme.h",
+    "OscPage.h",
+    "OscPage.h",
+    "OscPage.h",
+    "PackBrowser.cpp",
+    "PackBrowser.cpp",
+    "PresetLibrary.cpp",
+    "PresetLibrary.cpp",
+    "PresetLibrary.cpp",
+    "PresetLibrary.cpp",
+    "PresetLibrary.cpp",
+    "Processor.cpp",
+    "Processor.cpp",
+    "Processor.cpp",
+    "Sequencer.cpp",
+    "Sequencer.cpp",
+    "Sequencer.cpp",
+    "SequencerPage.h",
+    "SequencerPage.h",
+    "PluginProcessor.cpp",
+    "TuneSidebar.h",
+    "TuneSidebar.h",
+    "ProjectState.cpp",
+    "ProjectState.cpp",
+    "Processor.cpp",
+    "UiControls.h",
+    "UiControls.h",
+    "NexumMacroRouting.h"
+  ],
+  "Alle Eintraege": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Favoriten": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Alle Kategorien": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp",
+    "PackBrowser.cpp"
+  ],
+  "Keine Kategorie": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Ordner verschoben": [
+    "AssetBrowser.h"
+  ],
+  "Name": [
+    "AssetBrowser.h",
+    "AssetBrowser.h",
+    "AutomationSlider.h",
+    "PackBrowser.cpp",
+    "PackBrowser.cpp",
+    "TuneSidebar.h"
+  ],
+  "Eintrag umbenennen": [
+    "AssetBrowser.h"
+  ],
+  "Choose a non-empty asset name.": [
+    "AssetBrowser.h"
+  ],
+  "Gelöscht / im Papierkorb. Der geladene Klang bleibt erhalten.": [
+    "AssetBrowser.h"
+  ],
+  "Ordner im Papierkorb": [
+    "AssetBrowser.h",
+    "AssetBrowser.h"
+  ],
+  "Ordner löschen?": [
+    "AssetBrowser.h"
+  ],
+  " mit allen enthaltenen Einträgen in den Papierkorb verschieben?": [
+    "AssetBrowser.h"
+  ],
+  "LÖSCHEN": [
+    "AssetBrowser.h",
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Bewertung / Kategorie gespeichert": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Neuer Ordner...": [
+    "AssetBrowser.h"
+  ],
+  "Ordner umbenennen...": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Ordner löschen...": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Ordner verschieben": [
+    "AssetBrowser.h"
+  ],
+  "Neuer Ordner": [
+    "AssetBrowser.h",
+    "AssetBrowser.h"
+  ],
+  "Ordner angelegt": [
+    "AssetBrowser.h",
+    "AssetBrowser.h"
+  ],
+  "Ordner umbenennen": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Ordner umbenannt": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Umbenennen...": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp",
+    "TuneSidebar.h",
+    "UiControls.h"
+  ],
+  "Löschen": [
+    "AssetBrowser.h"
+  ],
+  "Verschieben": [
+    "AssetBrowser.h"
+  ],
+  "Kategorie hinzufuegen...": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Kategorie umbenennen": [
+    "AssetBrowser.h",
+    "AssetBrowser.h",
+    "PackBrowser.cpp",
+    "PackBrowser.cpp"
+  ],
+  "Kategorie entfernen": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Neue Kategorie": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Kategorie angelegt": [
+    "AssetBrowser.h"
+  ],
+  "Kategorie und Zuweisungen entfernt": [
+    "AssetBrowser.h"
+  ],
+  "Kategorie umbenannt": [
+    "AssetBrowser.h"
+  ],
+  "Effektkette speichern": [
+    "AssetBrowser.h"
+  ],
+  "Einzelnen Effekt speichern": [
+    "AssetBrowser.h"
+  ],
+  "Im Ziel-Rack ist kein Effekt zum Speichern.": [
+    "AssetBrowser.h"
+  ],
+  "Suche nach Name, Ordner, Kategorie...": [
+    "AssetBrowser.h"
+  ],
+  "Bewertung": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Kategorie": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  " Sterne; erneut klicken entfernt die Bewertung": [
+    "AssetBrowser.h"
+  ],
+  "Eintraege oder Ordner hierher ziehen, um sie zu verschieben.": [
+    "AssetBrowser.h"
+  ],
+  "Doppelklick: laden. Ziehen: verschieben. Rechtsklick: verwalten.": [
+    "AssetBrowser.h"
+  ],
+  "ORDNER LÖSCHEN": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "library-detail-name": [
+    "AssetBrowser.h",
+    "PackBrowser.cpp"
+  ],
+  "Das Ziel-Rack ist leer.": [
+    "AssetBrowser.h"
+  ],
+  "Einzeleffekte und Effektketten speichern, importieren und per Doppelklick laden.": [
+    "AssetBrowser.h"
+  ],
+  "WAV-Wavetables als Ordner, ZIP oder Datei hinzufuegen": [
+    "AssetBrowser.h"
+  ],
+  "SFZ-Instrumente mit ihren Sample-Dateien als Ordner, ZIP oder SFZ hinzufuegen": [
+    "AssetBrowser.h"
+  ],
+  "Choose a valid name.": [
+    "AssetLibrary.h"
+  ],
+  "Choose a valid folder name.": [
+    "AssetLibrary.h"
+  ],
+  "A folder with this name already exists.": [
+    "AssetLibrary.h"
+  ],
+  "Choose a valid asset name.": [
+    "AssetLibrary.h"
+  ],
+  "This category already exists or its name is too long.": [
+    "AssetLibrary.h"
+  ],
+  "Drag the ring endpoints. Start may exceed End.": [
+    "AutomationSlider.h"
+  ],
+  "Additional name": [
+    "AutomationSlider.h"
+  ],
+  "Clear name": [
+    "AutomationSlider.h"
+  ],
+  "Drag the link count onto a knob. Click the macro number for name and colour.": [
+    "AutomationSlider.h"
+  ],
+  "Clip name": [
+    "ClipEditor.h"
+  ],
+  "Start Offset Quantize": [
+    "ClipEditor.h"
+  ],
+  "Wrap clip to start offset": [
+    "ClipEditor.h"
+  ],
+  "preset-name": [
+    "Editor.cpp"
+  ],
+  "Speichern als: Neues Preset anlegen / Preset überschreiben": [
+    "Editor.cpp"
+  ],
+  "Preset speichern": [
+    "Editor.cpp"
+  ],
+  "Choose a valid preset name.": [
+    "FxLibrary.h",
+    "PresetLibrary.cpp"
+  ],
+  "start": [
+    "LiveModulation.cpp",
+    "LiveModulation.cpp",
+    "Processor.cpp",
+    "Sequencer.cpp",
+    "Sequencer.cpp",
+    "PluginProcessor.cpp",
+    "TuneSidebar.h",
+    "TuneSidebar.h",
+    "ProjectState.cpp",
+    "ProjectState.cpp",
+    "ProjectState.cpp",
+    "ProjectState.cpp",
+    "Processor.cpp",
+    "NexumMacroRouting.h"
+  ],
+  "Start / End. Reversed ranges are supported.": [
+    "LiveSourceUI.h"
+  ],
+  " / Number: name and colour. Drag the link count onto a knob.": [
+    "OscPage.h"
+  ],
+  "In anderes Pack verschieben": [
+    "PackBrowser.cpp"
+  ],
+  "Preset löschen": [
+    "PackBrowser.cpp"
+  ],
+  "Gelöscht: ": [
+    "PackBrowser.cpp"
+  ],
+  " / im Papierkorb. Der geladene Klang bleibt erhalten.": [
+    "PackBrowser.cpp"
+  ],
+  "Preset name": [
+    "PackBrowser.cpp",
+    "Editor.cpp"
+  ],
+  "Your name / artist": [
+    "PackBrowser.cpp"
+  ],
+  "Preset umbenennen": [
+    "PackBrowser.cpp"
+  ],
+  "SAVE CURRENT SOUND / Choose a pack and name, then Save to Pack. Existing files are kept.": [
+    "PackBrowser.cpp"
+  ],
+  "Bitte zuerst ein neues eigenes Preset speichern.": [
+    "PackBrowser.cpp"
+  ],
+  "Preset überschrieben: ": [
+    "PackBrowser.cpp"
+  ],
+  "Pack name and author are saved with your library.": [
+    "PackBrowser.cpp"
+  ],
+  "Doppelklick laden / VORSCHAU: MIDI-Clip": [
+    "PackBrowser.cpp"
+  ],
+  "Eintrag auswaehlen oder per Drag-and-drop in einen anderen Ordner verschieben": [
+    "PackBrowser.cpp"
+  ],
+  "Keine passenden Eintraege. Ordner oder Filter wechseln.": [
+    "PackBrowser.cpp"
+  ],
+  "Choose a valid pack name.": [
+    "PresetLibrary.cpp"
+  ],
+  "A pack with this name already exists.": [
+    "PresetLibrary.cpp"
+  ],
+  "Choose a new, valid category name.": [
+    "PresetLibrary.cpp"
+  ],
+  "Choose a pack name without path separators or special file characters.": [
+    "PresetLibrary.cpp"
+  ],
+  "A pack with that name already exists.": [
+    "PresetLibrary.cpp"
+  ],
+  "Choose a preset name without path separators or special file characters.": [
+    "PresetLibrary.cpp"
+  ],
+  "Das aktuelle Preset kann nicht überschrieben werden. Bitte zuerst ein neues Preset anlegen.": [
+    "PresetLibrary.cpp"
+  ],
+  "Das Preset konnte nicht gelesen werden.": [
+    "PresetLibrary.cpp"
+  ],
+  "Die Zieldatei ist kein NoCTRL-Preset.": [
+    "PresetLibrary.cpp"
+  ],
+  "Ungültiger Preset-Zustand.": [
+    "PresetLibrary.cpp"
+  ],
+  "Preset gespeichert; Metadaten-Datei konnte nicht aktualisiert werden.": [
+    "PresetLibrary.cpp"
+  ],
+  "Preset name cannot be empty.": [
+    "PresetLibrary.cpp"
+  ],
+  "Preset überschreiben": [
+    "PresetSaveMenu.h"
+  ],
+  "Rand Start": [
+    "Sequencer.cpp",
+    "Sequencer.cpp"
+  ],
+  "Name of the selected slot": [
+    "SequencerPage.h"
+  ],
+  "Drag horizontally for phase, vertically for wavetable position; sample: drag start. Shift-drag Warp A, Alt-drag Warp B; wheel position. Double click: actual mono voice scope. Preview omits random/noise/cross-osc phase modulation.": [
+    "SynthGraph.h"
+  ],
+  "Startet Host-Play, sofern unterstuetzt. Capture wartet auf die laufende Timeline und endet bei Host-Stopp oder Positionssprung.": [
+    "PluginEditor.cpp"
+  ],
+  "Auswahl an gleicher Position kopieren (Ctrl+D), danach Tonhoehe mit Ziehen oder Pfeiltasten aendern.": [
+    "PluginEditor.cpp"
+  ],
+  "Vibrato-Reduktion: 0% Original, 100% maximale Glaettung. Anwenden auf Auswahl oder alle sicher erkannten Noten.": [
+    "PluginEditor.cpp"
+  ],
+  "Staerke der Tonhoehenkorrektur; gilt fuer Auswahl oder alle Noten": [
+    "PluginEditor.cpp"
+  ],
+  "Bearbeitetes Audio in die Playlist ziehen. Vollstaendige Aufnahme, unabhaengig von Loop, Original-A/B und Monitorpegel.": [
+    "PluginEditor.cpp"
+  ],
+  "Bearbeitete Aufnahme als WAV speichern": [
+    "PluginEditor.cpp"
+  ],
+  "Start ": [
+    "PluginEditor.cpp"
+  ],
+  "Keine Note ausgewaehlt": [
+    "PluginEditor.cpp"
+  ],
+  " Noten ausgewaehlt": [
+    "PluginEditor.cpp"
+  ],
+  "Auswahl, sonst alle Noten": [
+    "PluginEditor.cpp"
+  ],
+  "Auswahl, sonst alle erkannten Noten": [
+    "PluginEditor.cpp"
+  ],
+  "WAV / bearbeitete Aufnahme": [
+    "PluginEditor.cpp"
+  ],
+  "Host-Start angefordert. Aufnahme beginnt mit der laufenden Timeline...": [
+    "PluginEditor.cpp"
+  ],
+  "Aufnahme bereit - warte auf den naechsten laufenden Host-Audioblock.": [
+    "PluginEditor.cpp"
+  ],
+  "Host hat Autostart abgelehnt. Aufnahme bereit: Play in FL/DAW druecken.": [
+    "PluginEditor.cpp"
+  ],
+  "Host-Autostart nicht verfuegbar. Aufnahme bereit: Play in FL/DAW druecken.": [
+    "PluginEditor.cpp"
+  ],
+  "Aufnahme laeuft ": [
+    "PluginEditor.cpp"
+  ],
+  "WAV-Datei wird fuer Export und Drag-and-drop vorbereitet...": [
+    "PluginEditor.cpp"
+  ],
+  " erkannte Noten": [
+    "AudioEngine.cpp"
+  ],
+  "Import nicht moeglich: Mono/Stereo WAV, AIFF oder FLAC, maximal 5 Minuten.": [
+    "AudioEngine.cpp"
+  ],
+  "WAV konnte nicht gespeichert werden: ": [
+    "AudioEngine.cpp"
+  ],
+  "Bereit - Audio importieren oder Eingang aufnehmen": [
+    "AudioEngine.h"
+  ],
+  "Audio hier ablegen oder Eingang aufnehmen": [
+    "AnalysisView.h"
+  ],
+  " Noten | Ziehen: Ton/Zeit | Alt: Cent/frei | Rand: Laenge | Shift: Mehrfachauswahl": [
+    "AnalysisView.h"
+  ],
+  "Keine Noten. Importiere eine monophone Aufnahme oder nutze Undo.": [
+    "AnalysisView.h"
+  ],
+  "Loeschen": [
+    "AnalysisView.h",
+    "Editor.cpp"
+  ],
+  "Halbtoene relativ: z.B. 0.25 fuer 25 Cent": [
+    "AnalysisView.h"
+  ],
+  "Abbrechen": [
+    "AnalysisView.h",
+    "TuneSidebar.h",
+    "TuneSidebar.h",
+    "Editor.cpp",
+    "Editor.cpp",
+    "UiControls.h",
+    "UiControls.h"
+  ],
+  "Auswaehlen, Lasso, frei verschieben": [
+    "Tools.h"
+  ],
+  "Nur Tonhoehe; Alt fuer Cent": [
+    "Tools.h"
+  ],
+  "Nur Zeitposition verschieben": [
+    "Tools.h"
+  ],
+  "Auf die gewuenschte Trennstelle klicken": [
+    "Tools.h"
+  ],
+  "Auswahl oder zwei Nachbarn verbinden": [
+    "Tools.h"
+  ],
+  "Noten anklicken oder wegstreichen": [
+    "Tools.h"
+  ],
+  "Verknuepfungen entfernen": [
+    "TuneSidebar.h",
+    "UiControls.h"
+  ],
+  "Blau": [
+    "TuneSidebar.h",
+    "UiControls.h"
+  ],
+  "Violett": [
+    "TuneSidebar.h",
+    "UiControls.h"
+  ],
+  "Gelb": [
+    "TuneSidebar.h",
+    "UiControls.h"
+  ],
+  "Speichern": [
+    "TuneSidebar.h",
+    "TuneSidebar.h",
+    "UiControls.h",
+    "UiControls.h"
+  ],
+  "Shift-Klick: ausgewaehltes Makro zuweisen. Makro-Verknuepfung hierher ziehen. Rechtsklick: Bereich / entfernen.": [
+    "TuneSidebar.h"
+  ],
+  "Verknuepfung entfernen": [
+    "TuneSidebar.h"
+  ],
+  "Start": [
+    "TuneSidebar.h",
+    "UiControls.h"
+  ],
+  "Kein Audio vorhanden": [
+    "AudioExporter.cpp"
+  ],
+  "Exportordner kann nicht angelegt werden": [
+    "AudioExporter.cpp"
+  ],
+  "WAV-Datei kann nicht geschrieben werden": [
+    "AudioExporter.cpp"
+  ],
+  "WAV-Encoder nicht verfuegbar": [
+    "AudioExporter.cpp"
+  ],
+  "Fehler beim Schreiben der WAV-Datei": [
+    "AudioExporter.cpp"
+  ],
+  "WAV-Datei kann nicht fertiggestellt werden": [
+    "AudioExporter.cpp"
+  ],
+  "Live-Panningkurve und Abspielposition": [
+    "Editor.cpp"
+  ],
+  "Klick: Schritt an/aus / Ziehen: Lautstaerke / Shift: loeschen / Rechtsklick: Tie zum naechsten Schritt": [
+    "Editor.cpp"
+  ],
+  "Die Datei ist kein gueltiges Nexum-Gate-Preset.": [
+    "Editor.cpp"
+  ],
+  "Die Datei konnte nicht gespeichert werden.": [
+    "Editor.cpp"
+  ],
+  "gate-detail-name": [
+    "Editor.cpp"
+  ],
+  "Bitte einen Dateinamen ohne Sonderzeichen eingeben.": [
+    "Editor.cpp"
+  ],
+  "Preset loeschen?": [
+    "Editor.cpp"
+  ],
+  " in den Papierkorb verschieben?": [
+    "Editor.cpp"
+  ],
+  "Die Datei konnte nicht geloescht werden.": [
+    "Editor.cpp"
+  ],
+  "gate-preset-name": [
+    "Editor.cpp"
+  ],
+  "Makro-Verknuepfung entfernen": [
+    "UiControls.h"
+  ],
+  "Start und Ende in Parameter-Einheiten": [
+    "UiControls.h"
+  ],
+  "Zyklus in der Hierarchie": [
+    "NexumDesign.h"
+  ],
+  "NEXUM darf kein Elternelement haben": [
+    "NexumDesign.h"
+  ],
+  "Design konnte nicht geschrieben werden": [
+    "NexumDesign.h"
+  ],
+  "Design konnte nicht atomar ersetzt werden": [
+    "NexumDesign.h"
+  ]
+}
