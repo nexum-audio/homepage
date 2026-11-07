@@ -1,39 +1,19 @@
-# Nexum Audio — local website
+# Nexum Audio website
 
-Open index.html directly in your browser. All six pages, navigation, product
-previews and downloads work without a build step, web server or internet access.
+Seven English static pages: the suite overview, five product pages and Open Source.
+The November 2026 update includes current development screenshots, Nexum Rec and
+Windows packages with matching full source snapshots. Demo waveforms use synthetic
+audio; private recordings and external preset packs are not included.
 
-## Pages
-- index.html: suite overview, product previews, downloads and installation FAQ
-- nexum.html, fx.html, tune.html, gate.html: individual product pages
-- open-source.html: shared codebase, licenses and build instructions
+Open index.html locally, or serve this directory with a static HTTP server.
+Shared styles: assets/style.css. Interactions: assets/site.js. No frontend build,
+external fonts, tracking or accounts are required to browse the site.
 
-## Editing
-Page content is stored directly in the HTML files. Shared styling is in
-assets/style.css; interactions are in assets/site.js. The assets folder also
-contains logos, mockups and plugin screenshots. No external fonts, trackers,
-account systems, form services or frontend frameworks are loaded.
+Checks: `python tools/check-site.py` and `node --check assets/site.js`.
+Download checksums and source commit IDs are stored in downloads/releases.json.
+The source ZIP includes the shared core and dependency sources once. Its README
+explains the NEXUM_CORE_DIR override for companion builds.
 
-The optional tools/ scripts regenerate pages and release ZIPs from the local
-development projects. build-pages.py applies the English translation pass
-automatically. No scripts are needed to browse or host the website.
-
-## Downloads
-Four Windows x64 ZIPs include VST3, standalone, README and license texts. The
-shared source ZIP contains all four products, shared UI, JUCE, Rubber Band,
-Zstandard, Catch2, tests and relative CMake paths. Original implementation:
-AGPL-3.0-only, authorized by the project owner. Third-party licenses are retained.
-External sound packs, private DAW projects and user settings are not included.
-Checksums: downloads/SHA256SUMS.txt. Metadata: downloads/releases.json.
-
-## Hosting later on nexum-audio.com
-Copy the six HTML pages together with assets/ and downloads/ into the web root.
-Links are relative and there are no server dependencies. README.md and tools/
-do not need to be uploaded. Nothing has been deployed; domain/DNS settings
-have not been changed.
-
-## Verification
-Desktop/mobile browser checks, interactive preview, mobile navigation, image
-zoom, code copying and an actual Windows download were tested. Local links and
-anchors, ZIP integrity and SHA-256 checksums were checked. Source CMake paths
-were checked for portability; the archive has not been fully rebuilt from scratch.
+GitHub Pages deployment is maintained by .github/workflows/static.yml. Keep the
+existing Pages audience and domain settings. Pushes require explicit owner request;
+use nexum-audio as author, committer and authenticated account.

@@ -1,31 +1,47 @@
 {
-  "nexum": {
-    "file": "nexum-synth-0.12.0-windows-x64.zip",
-    "bytes": 8262840,
-    "sha256": "f34e5b87193e5106cf7c01a27435303363720f6b16f6f887a374e0337f91ae44",
-    "version": "0.12.0"
-  },
-  "fx": {
-    "file": "nexum-fx-0.12.0-windows-x64.zip",
-    "bytes": 8405480,
-    "sha256": "86cb166469c8cf161afdd327c83bc553b4c93dfdd45052d651e00586e91b7513",
-    "version": "0.12.0"
-  },
-  "tune": {
-    "file": "nexum-tune-0.4.1-windows-x64.zip",
-    "bytes": 7011231,
-    "sha256": "9f718883a76a8730a0028db99487b6ea7a7400fc9b0c7419018b9d0d701a2a5e",
-    "version": "0.4.1"
-  },
-  "gate": {
-    "file": "nexum-gate-1.0.0-windows-x64.zip",
-    "bytes": 6171449,
-    "sha256": "4f6b8c6f0c074d9665d48c94667698f13d93d0a6dfcfa1f14ca67271ecfd77bc",
-    "version": "1.0.0"
+  "packaged": "2026-11-07",
+  "products": {
+    "nexum": {
+      "file": "nexum-synth-0.12.0-windows-x64-2026-11-07.zip",
+      "bytes": 8317894,
+      "sha256": "90e1e09074d17af32c7f5ee49b096c00eff3002b34b0e88139f83c889357ec83",
+      "version": "0.12.0"
+    },
+    "fx": {
+      "file": "nexum-fx-0.12.0-windows-x64-2026-11-07.zip",
+      "bytes": 8429213,
+      "sha256": "038f7fc9e364d26a23481b1a90dd1c5fdaad5d8ec4aade96940e2bb2885ae7ab",
+      "version": "0.12.0"
+    },
+    "tune": {
+      "file": "nexum-tune-0.4.1-windows-x64-2026-11-07.zip",
+      "bytes": 7005900,
+      "sha256": "ba92d1551271d2f5ac602aabe4bc9249fa3f203bb8c1ae77975d4a9a6ac3dce2",
+      "version": "0.4.1"
+    },
+    "gate": {
+      "file": "nexum-gate-1.0.0-windows-x64-2026-11-07.zip",
+      "bytes": 6190231,
+      "sha256": "50bacf6bec3038d1a7ea52a7f91aa68cf0c3198453edd02ed0f5e47d02a06716",
+      "version": "1.0.0"
+    },
+    "rec": {
+      "file": "nexum-rec-0.1.0-windows-x64-2026-11-07.zip",
+      "bytes": 6484195,
+      "sha256": "59df28c570097dba727f93c0f4106ce6a41fb7668c48c1d16b496c2d1eac3b4a",
+      "version": "0.1.0"
+    }
   },
   "source": {
-    "file": "nexum-suite-source-2026-11-03.zip",
-    "bytes": 29978838,
-    "sha256": "890c046f5e05dd011cf95e21d7d5cb929fb97a9dc43a44faf955460466408f29"
+    "file": "nexum-suite-source-2026-11-07.zip",
+    "bytes": 29870223,
+    "sha256": "b6231cf14eb0cc6539b7d4f6b358739a20f27d9b969134dcaaf7f4610bf48ee0",
+    "commits": {
+      "nexum": "19777d1fb33fa7434a1f0122e0aebed8d6728b37",
+      "nexum-fx": "cad0af7baee42976a536ba594cb31a66051463cf",
+      "nexum-tune": "55b93c94f6ac0adb24b333a5d4692dec4b4f0460",
+      "nexum-gate": "03d7f6d7d64da9eee2505e5c847ebf0ceea6d2db",
+      "nexum-rec": "84bbeddebdfc9040fd6cf99450816b6c8951160f"
+    }
   }
 }
