@@ -1,8 +1,24 @@
-NEXUM AUDIO — DEVELOPMENT PACKAGES, 07 NOVEMBER 2026
+NEXUM AUDIO — SOURCE RELEASE 7 NOVEMBER 2026
 
 Original Nexum-family implementations: AGPL-3.0-only.
-Third-party components retain their upstream licenses and copyright notices.
-JUCE: AGPLv3 option; Rubber Band: GPLv2 or later; Zstandard: upstream dual license;
-Catch2: BSL-1.0; VST3 SDK/transport interfaces: included upstream notices.
-Complete corresponding source and library license texts are in the suite source ZIP.
-No external sound packs, user recordings, presets, DAW projects or settings are bundled.
+Third-party components retain upstream licenses and copyright notices.
+
+Selected routes in the published source/build configuration:
+- JUCE 8: AGPLv3 option (all five plugins).
+- Bundled 2024 Steinberg VST3 SDK: GPLv3 option, separate from newer MIT headers.
+- VST3 transport interface headers in Tune/Rec: MIT, Steinberg 2026.
+- Rubber Band 4 in Tune: GPLv2-or-later; GPLv3 option for the combined build.
+- Zstandard in shared Nexum/FX import code: BSD 3-Clause option.
+- Catch2 in Tune tests: Boost Software License 1.0.
+- JUCE and Rubber Band include additional upstream components and per-file notices.
+
+Read ../licenses.html and download third-party-license-texts.zip from this directory
+for verbatim upstream notices. Complete corresponding source, retained headers and
+build instructions are in nexum-suite-source-2026-11-07.zip in this directory.
+The component licenses govern; this summary does not replace their terms.
+Commercial use is permitted subject to the applicable licenses. No proprietary
+JUCE, Rubber Band or Steinberg license purchase is claimed for these builds.
+Source-tree presence does not mean every component is linked into every binary.
+
+No external sound packs, user recordings, private presets, DAW projects or settings
+are bundled. Trademarks and separately protected assets retain their own rights.
